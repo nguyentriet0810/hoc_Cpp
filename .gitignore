@@ -13,6 +13,7 @@ Release/
 *.hex
 *.bin
 *.map
+*.rar
 *.exe
 *.dll
 *.a
@@ -43,3 +44,4 @@ config.h
 *.pem
 *.secret
 *.token
+
